@@ -1,5 +1,5 @@
 
-## 🧠 RAD_BERT ( Radiology NER Assistant using BioBERT )
+                                            ## 🧠 RAD_BERT ( Radiology NER Assistant using BioBERT )
 
 A lightweight  assistant that extracts **Anatomical Locations**, **Observations**, and optionally **Severity** from free-text radiology reports using a fine-tuned BioBERT model. Deployed using Gradio on Hugging Face Spaces.
 
