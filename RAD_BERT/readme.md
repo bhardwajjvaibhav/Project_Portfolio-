@@ -83,16 +83,16 @@ Radiology reports are typically written in **unstructured free text**, making it
 
 ---
 
-## 💡 Future Scope
+##  Future Scope
 
-- 🔄 **Integrate with radiology reporting tools** to:
+-  **Integrate with radiology reporting tools** to:
   - Auto-tag entities in real-time
   - Assist radiologists with **structured report generation**
 
-- 🔍 Expand entity types:
+-  Expand entity types:
   - Severity, Laterality, Modality, Temporal descriptors
 
-- 📊 Use NER output for downstream tasks like:
+- Use NER output for downstream tasks like:
   - Report classification
   - Alert generation
   - Clinical summarization with RAG
