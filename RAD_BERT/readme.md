@@ -57,10 +57,8 @@ Radiology reports are typically written in **unstructured free text**, making it
 
 ---
 
-## 🌐 Live Demo
-
-🚀 Try the app: [Hugging Face Space URL here]  
-🧠 Model: [`VaibhavBhardwaj/Radbert`](https://huggingface.co/VaibhavBhardwaj/Radbert)
+## 🌐 Live Demo 
+🧠 Model: [`VaibhavBhardwaj/Radbert`](https://huggingface.co/spaces/VaibhavBhardwaj/RADBERT-NER)
 
 ---
 
@@ -98,14 +96,6 @@ Radiology reports are typically written in **unstructured free text**, making it
 ## 📸 Demo Screenshot
 
 *Add your screenshot or GIF here*
-
----
-
-## ✍️ About Me
-
-**Vaibhav Bhardwaj**  
-AI/ML Engineer | AI/ML Engineer  
-[LinkedIn](#) • [Portfolio](#) • [Email](#)
 
 ---
 
