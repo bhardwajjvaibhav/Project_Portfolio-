@@ -1,19 +1,18 @@
-
-                                            ## 🧠 RAD_BERT ( Radiology NER Assistant using BioBERT )
+#### RAD_BERT ( Radiology NER Assistant using BioBERT )
 
 A lightweight  assistant that extracts **Anatomical Locations**, **Observations**, and optionally **Severity** from free-text radiology reports using a fine-tuned BioBERT model. Deployed using Gradio on Hugging Face Spaces.
 
 ---
 
-### ⭐ Project Summary
+###### ⭐ Project Summary
 
-#### 1. Problem
+####### 1. Problem
 
 Radiology reports are typically written in **unstructured free text**, making it difficult to extract structured clinical information such as anatomical findings and observations. Manual annotation is slow, inconsistent, and costly.
 
 ---
 
-### 2. Task
+####### 2. Task
 - Build a Text to speech model using whisper that convert radiology transcription dictation that can be further paired with RAD-Bert.
 - Build a **model** to extract:
   - **Anatomical Locations**
