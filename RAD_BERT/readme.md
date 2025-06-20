@@ -96,6 +96,7 @@ Radiology reports are typically written in **unstructured free text**, making it
 ## 📸 Demo Screenshot
 
 *Add your screenshot or GIF here*
+![RadBERT NER Demo](Media/Demo01.png)
 
 ---
 
