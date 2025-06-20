@@ -3,7 +3,12 @@
 A lightweight  assistant that extracts **Anatomical Locations**, **Observations**, and optionally **Severity** from free-text radiology reports using a fine-tuned BioBERT model. Deployed using Gradio on Hugging Face Spaces.
 
 ---
+## 📸 Demo Screenshot
 
+*Add your screenshot or GIF here*
+![RadBERT NER Demo](Media/Demo01.png)
+
+---
 #### ⭐ Project Summary
 
 #### 1. Problem
@@ -90,13 +95,6 @@ Radiology reports are typically written in **unstructured free text**, making it
   - Report classification
   - Alert generation
   - Clinical summarization with RAG
-
----
-
-## 📸 Demo Screenshot
-
-*Add your screenshot or GIF here*
-![RadBERT NER Demo](Media/Demo01.png)
 
 ---
 
