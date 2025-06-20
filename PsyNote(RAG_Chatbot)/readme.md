@@ -3,6 +3,10 @@
 A Retrieval-Augmented Generation (RAG)-based assistant that allows users to upload  journal files in any format .txt,pdf,docs and json and chat with an LLM over their own Journal (Daily Diary entries). Built using FastAPI, sentence-transformers, custom chunking, and deployed using Docker.
 
 ---
+![PsyNote Demo](Media/Demo03.png)
+![PsyNote Demo](Media/Demo04.png)
+![PsyNote Demo](Media/Demo05.png)
+---
 
 ## 📌 Use Case
 
