@@ -30,12 +30,12 @@ To automate the segmentation and classification of blood cells using both classi
 
 1. **Image Loading**:
    - Images read via OpenCV, color-corrected (BGR ➝ RGB), and visualized using Matplotlib.
-   - ![Smear Demo](media/demo01.png)
+   - ![Smear Demo](media/demo01.PNG)
 
 2. **Annotation Handling**:
    - XML annotations parsed using `xml.etree.ElementTree`.
    - Bounding boxes drawn with labels to show cell type localization.
-   - ![Smear Demo](media/demo02.png)
+   - ![Smear Demo](media/demo02.PNG)
 
 3. **Segmentation using Watershed Algorithm**:
    - Watershed treats image intensities as elevation maps and floods the valleys to detect object boundaries.
@@ -44,7 +44,7 @@ To automate the segmentation and classification of blood cells using both classi
 
 📌 **Why Watershed?**  
 Perfect for separating overlapping cells without needing any training data, offering unsupervised segmentation ideal for medical imagery.
-![Smear Demo](media/Demo03.png)
+![Smear Demo](media/Demo03.PNG)
 
 ---
 
@@ -103,9 +103,9 @@ To classify the segmented and annotated cells:
 - Bounding box annotations
 - Watershed segmentation
 - Model predictions with class labels
-![Smear Demo](media/demo01.png)
-![Smear Demo](media/demo02.png)
-![Smear Demo](media/Demo03.png)
+![Smear Demo](media/demo01.PNG)
+![Smear Demo](media/demo02.PNG)
+![Smear Demo](media/Demo03.PNG)
 
 
 ---
