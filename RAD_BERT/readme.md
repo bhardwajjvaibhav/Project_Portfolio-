@@ -1,21 +1,21 @@
 
-# 🧠 Radiology NER Assistant using BioBERT & Gradio
+## 🧠 RAD_BERT ( Radiology NER Assistant using BioBERT )
 
-A lightweight Named Entity Recognition (NER) assistant that extracts **Anatomical Locations**, **Observations**, and optionally **Severity** from free-text radiology reports using a fine-tuned BioBERT model. Deployed using Gradio on Hugging Face Spaces.
+A lightweight  assistant that extracts **Anatomical Locations**, **Observations**, and optionally **Severity** from free-text radiology reports using a fine-tuned BioBERT model. Deployed using Gradio on Hugging Face Spaces.
 
 ---
 
-## ⭐ Project Summary (Using STAR Method)
+### ⭐ Project Summary
 
-### 🧩 Situation
+#### 1. Problem
 
 Radiology reports are typically written in **unstructured free text**, making it difficult to extract structured clinical information such as anatomical findings and observations. Manual annotation is slow, inconsistent, and costly.
 
 ---
 
-### 🎯 Task
-
-- Build a **domain-specific NER model** to extract:
+### 2. Task
+- Build a Text to speech model using whisper that convert radiology transcription dictation that can be further paired with RAD-Bert.
+- Build a **model** to extract:
   - **Anatomical Locations**
   - **Observations**
   - **Severity** (future scope)
@@ -24,11 +24,13 @@ Radiology reports are typically written in **unstructured free text**, making it
 
 ---
 
-### 🚀 Action
+### 3. Action
 
 #### 🔹 Dataset & Annotation
-- Used the **ChestXpert** dataset, which contains real radiology reports.
-- Manually labeled the dataset using the **BIO tagging scheme**:
+- Used the **CheXpert** dataset, which contains real radiology reports.
+- The dataset was well annotated with all the labelling but it was in json format.
+- Converted the Json structured Chexpert to Bio Labelled data.
+- **BIO tagging scheme**:
   - `B-ANAT`, `I-ANAT` → Anatomical terms  
   - `B-OBS`, `I-OBS` → Observations  
   - `B-SEV`, `I-SEV` → Severity
@@ -49,7 +51,7 @@ Radiology reports are typically written in **unstructured free text**, making it
 
 ### 🌟 Result
 
-✅ Successfully deployed a **real-time NER demo** that helps:
+✅ Successfully deployed  that helps:
 - Structure clinical narratives
 - Accelerate data annotation
 - Assist healthcare AI researchers
@@ -103,10 +105,17 @@ Radiology reports are typically written in **unstructured free text**, making it
 ## ✍️ About Me
 
 **Vaibhav Bhardwaj**  
-AI/ML Engineer | Passionate about Medical NLP & AI for Healthcare  
+AI/ML Engineer | AI/ML Engineer  
 [LinkedIn](#) • [Portfolio](#) • [Email](#)
 
 ---
 
-## 📂 Project Structure
+## How to run Locally
+
+
+```bash
+git clone https://huggingface.co/spaces/YOUR_USERNAME/RadBERT-NER
+cd RadBERT-NER
+pip install -r requirements.txt
+python app.py
 
