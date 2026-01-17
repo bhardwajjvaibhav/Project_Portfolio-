@@ -11,7 +11,21 @@ Explore each project to learn more about the problem, approach, tools, and outco
 ### 💬 [PsyNote – Therapy Chatbot (RAG-based)](https://github.com/bhardwajjvaibhav/PsyNote---RAG-CHATBOT.git)
 - **Domain**: Mental Health, LLM, Retrieval-Augmented Generation  
 - **Summary**: A chatbot to support therapy via journaling and Q&A using LangChain and FAISS.  
-- **Tech**: LangChain, FastAPI, FAISS, OpenAI, Streamlit
+- **Tech**: LangChain, FastAPI, FAISS, OpenAI
+---
+
+### 🔐 [Credit Card Fraud Detection – End-to-End MLOps System](https://github.com/bhardwajjvaibhav/Credit_Fraud.git)
+- **Domain**: Finance, Credit Card Fraud Detection
+- **Summary**: Built a production-ready fraud detection system with reproducible training, experiment tracking, automated model deployment, and real-time inference using MLOps best practices.
+- **Tech**: Python, Scikit-learn, MLflow, DVC, FastAPI, Docker, Jenkins
+  
+---
+
+### 🧠 [RAD-BERT – Radiology Report Entity Extraction](https://github.com/bhardwajjvaibhav/Project_Portfolio-/tree/main/RAD_BERT)
+- **Domain**: NLP, Clinical AI  
+- **Summary**: Uses a BERT-based pipeline to extract medical entities from radiology text reports.  
+- **Tech**: Transformers, BERT, Token Classification
+
 ---
 
 ### 🧠 [NeoScanAI – MRI Segmentation & Outcome Prediction]
@@ -19,29 +33,12 @@ Explore each project to learn more about the problem, approach, tools, and outco
 - **Summary**: Predicts neurodevelopmental outcomes in neonates using MRI scans with UNet and ElasticNet.  
 - **Tech**: PyTorch, OpenCV, N4ITK, CNN, ElasticNet
 
----
-### 🧠 [RAD-BERT – Radiology Report Entity Extraction](https://github.com/bhardwajjvaibhav/Project_Portfolio-/tree/main/RAD_BERT)
-- **Domain**: NLP, Clinical AI  
-- **Summary**: Uses a BERT-based pipeline to extract medical entities from radiology text reports.  
-- **Tech**: Transformers, BERT, Token Classification
----
-
+--
 
 ### 🩸 [Blood Smear Analysis (OpenCV)](https://github.com/bhardwajjvaibhav/Project_Portfolio-/tree/main/Blood_Smear_Analysis(OpenCV))
 - **Domain**: Computer Vision, Medical Imaging  
 - **Summary**: Automated detection and analysis of blood cell structures using OpenCV.  
 - **Tech**: OpenCV, NumPy, Image Processing
-
----
-
-### 🔐 [Credit Card Fraud Detection – End-to-End MLOps System](https://github.com/bhardwajjvaibhav/Credit_Fraud.git)
-- **Domain**: Finance, Credit Card Fraud Detection
-- **Summary**: Built a production-ready fraud detection system with reproducible training, experiment tracking, automated model deployment, and real-time inference using MLOps best practices.
-- **Tech**: Python, Scikit-learn, MLflow, DVC, FastAPI, Docker, Jenkins
-
----
-
-### 🧬 [LLM FineTune – Biomedical NER](https://github.com/bhardwajjvaibhav/Project_Portfolio-/tree/main/LLM_FIneTune)
 
 ---
 
