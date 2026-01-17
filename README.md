@@ -14,7 +14,7 @@ Explore each project to learn more about the problem, approach, tools, and outco
 - **Tech**: LangChain, FastAPI, FAISS, OpenAI
 ---
 
-### 🔐 [End-to-End MLOps System-Credit Card Fraud Detection](https://github.com/bhardwajjvaibhav/Credit_Fraud.git)
+### 🔐 [End-to-End MLOps System-Credit Card Fraud Detection](https://github.com/bhardwajjvaibhav/Credits_Fraud.git)
 - **Domain**: Finance, Credit Card Fraud Detection
 - **Summary**: Built a production-ready fraud detection system with reproducible training, experiment tracking, automated model deployment, and real-time inference using MLOps best practices.
 - **Tech**: Python, Scikit-learn, MLflow, DVC, FastAPI, Docker, Jenkins
