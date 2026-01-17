@@ -34,10 +34,10 @@ Explore each project to learn more about the problem, approach, tools, and outco
 
 ---
 
-### 🔐 [TransGuard – Fraudulent Transaction Prediction](https://github.com/bhardwajjvaibhav/Project_Portfolio-/tree/main/TransGuard-(Fraudulent_Transaction_Prediction))
-- **Domain**: Finance, Fraud Detection  
-- **Summary**: Identifies potentially fraudulent transactions using classification and interpretability tools.  
-- **Tech**: Scikit-learn, XGBoost, SHAP, SMOTE, EDA
+### 🔐 [Credit Card Fraud Detection – End-to-End MLOps System](https://github.com/bhardwajjvaibhav/Credit_Fraud.git)
+- **Domain**: Finance, Credit Card Fraud Detection
+- **Summary**: Built a production-ready fraud detection system with reproducible training, experiment tracking, automated model deployment, and real-time inference using MLOps best practices.
+- **Tech**: Python, Scikit-learn, MLflow, DVC, FastAPI, Docker, Jenkins
 
 ---
 
