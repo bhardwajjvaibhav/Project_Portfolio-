@@ -1,4 +1,4 @@
-# 🚀 Project Portfolio by Vaibhav Bhardwaj 
+# 🚀 Project Portfolio
 
 Welcome to my project portfolio! This repository contains all my AI, ML, NLP, CV, and deep learning projects — each addressing real-world challenges using data-driven solutions.
 
