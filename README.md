@@ -8,7 +8,7 @@ Explore each project to learn more about the problem, approach, tools, and outco
 
 ## 📂 Featured Projects
 
-### 💬 [PsyNote – Therapy Chatbot (RAG-based)](https://github.com/bhardwajjvaibhav/PsyNote---RAG-CHATBOT.git)
+### 💬 [NoteVault – AI assisted Clinical Recall System](https://github.com/bhardwajjvaibhav/PsyNote---RAG-CHATBOT.git)
 - **Domain**: Mental Health, LLM, Retrieval-Augmented Generation  
 - **Summary**: A chatbot to support therapy via journaling and Q&A using LangChain and FAISS.  
 - **Tech**: LangChain, FastAPI, FAISS, OpenAI
